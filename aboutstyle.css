@@ -78,11 +78,15 @@
         width: 90%;
     }
     .image-container img{
-        width: 350px;
+        width: 300px;
         height: 400px;
     }
     .text-container h1{
         font-size: 50px;
+    }
+    .text-container p{
+        font-size: 20px;
+        text-align: justify;
     }
 }
 @media screen and (max-width: 1100px){
